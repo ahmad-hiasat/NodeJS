@@ -1,0 +1,12 @@
+POST http://localhost:8082/data
+Content-Type: application/json
+
+{"id":2003,
+"title":"ahmadhiasat" ,
+"userId":20032 ,
+"completed":false}
+
+
+
+
+###
